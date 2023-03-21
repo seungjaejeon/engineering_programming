@@ -1,0 +1,4 @@
+﻿  polar_coordinate_transformation.c
+C:\Users\wjstm\grade4\engineering_programming\week4\polar_coordinate_transformation.c(14,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\grade4\engineering_programming\week4\polar_coordinate_transformation.c(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week4.vcxproj -> C:\Users\wjstm\grade4\engineering_programming\week4\Debug\week4.exe
