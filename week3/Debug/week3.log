@@ -1,0 +1,6 @@
+﻿  week3.c
+C:\Users\wjstm\OneDrive\바탕 화면\4학년\engineering_programming\week3\week3.c(15,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wjstm\OneDrive\바탕 화면\4학년\engineering_programming\week3\week3.c(12,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\OneDrive\바탕 화면\4학년\engineering_programming\week3\week3.c(19,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\OneDrive\바탕 화면\4학년\engineering_programming\week3\week3.c(37,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week3.vcxproj -> C:\Users\wjstm\OneDrive\바탕 화면\4학년\engineering_programming\week3\Debug\week3.exe
