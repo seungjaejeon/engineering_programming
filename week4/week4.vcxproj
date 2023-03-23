@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HW(3_23).c" />
     <ClCompile Include="Mensulation_by_parts.c" />
     <ClCompile Include="polar_coordinate_transformation.c" />
   </ItemGroup>
