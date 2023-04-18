@@ -1,0 +1,7 @@
+﻿  practice.c
+C:\Users\wjstm\grade4\engineering_programming\week5\practice.c(8,15): warning C4101: 'mode' :참조되지 않은 지역 변수입니다.
+C:\Users\wjstm\grade4\engineering_programming\week5\practice.c(8,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\wjstm\grade4\engineering_programming\week5\practice.c(8,31): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+C:\Users\wjstm\grade4\engineering_programming\week5\practice.c(8,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\wjstm\grade4\engineering_programming\week5\practice.c(8,21): warning C4101: 'straight' :참조되지 않은 지역 변수입니다.
+  week5.vcxproj -> C:\Users\wjstm\grade4\engineering_programming\week5\Debug\week5.exe
