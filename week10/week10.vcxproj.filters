@@ -18,5 +18,8 @@
     <ClCompile Include="week10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="cube.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,5 +1,2 @@
 ﻿  HW(4_3).c
-C:\Users\wjstm\grade4\engineering_programming\week9\HW(4_3).c(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wjstm\grade4\engineering_programming\week9\HW(4_3).c(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wjstm\grade4\engineering_programming\week9\HW(4_3).c(10,6): warning C4101: 'all' :참조되지 않은 지역 변수입니다.
   week9.vcxproj -> C:\Users\wjstm\grade4\engineering_programming\week9\Debug\week9.exe
