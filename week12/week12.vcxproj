@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{44151812-66c7-40cd-92ba-56e558959255}</ProjectGuid>
-    <RootNamespace>week11</RootNamespace>
+    <ProjectGuid>{8cab9409-7594-432b-a7cd-d18e67fc94ca}</ProjectGuid>
+    <RootNamespace>week12</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,9 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="decode.c" />
-    <ClCompile Include="program_practice.c" />
-    <ClCompile Include="week11.c" />
+    <ClCompile Include="random.c" />
+    <ClCompile Include="week12.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

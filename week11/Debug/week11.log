@@ -1,8 +1,8 @@
-﻿  program_practice.c
-C:\Users\wjstm\grade4\engineering_programming\week11\program_practice.c(17,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wjstm\grade4\engineering_programming\week11\program_practice.c(18,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wjstm\grade4\engineering_programming\week11\program_practice.c(34,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wjstm\grade4\engineering_programming\week11\program_practice.c(35,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  week11.c
-  코드를 생성하고 있습니다...
+﻿  decode.c
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(34,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(16,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(17,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(19,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(25,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjstm\grade4\engineering_programming\week11\decode.c(8,37): warning C4101: 'sentence' :참조되지 않은 지역 변수입니다.
   week11.vcxproj -> C:\Users\wjstm\grade4\engineering_programming\week11\Debug\week11.exe
