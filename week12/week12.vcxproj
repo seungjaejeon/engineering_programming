@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="pmf.c" />
     <ClCompile Include="random.c" />
     <ClCompile Include="week12.c" />
   </ItemGroup>
