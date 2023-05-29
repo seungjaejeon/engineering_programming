@@ -1,0 +1,9 @@
+﻿  generator.c
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(7,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(13,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(16,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(19,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(26,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(29,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\wjstm\grade4\engineering_programming\week13\generator.c(32,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  week13.vcxproj -> C:\Users\wjstm\grade4\engineering_programming\week13\Debug\week13.exe
