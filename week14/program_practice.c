@@ -8,7 +8,7 @@
 //void main(int argc, char* argv[])
 //{
 //	FILE* fpt;
-//	int prob[101] = { 0 };
+//	int prob[100] = { 0 };
 //	double result = 0;
 //	fpt = fopen("result.csv", "w");
 //	srand(time(NULL));
@@ -20,11 +20,11 @@
 //		if (rv > 5.0 || rv < -5.0) {
 //			continue;
 //		}
-//		prob[(int)((rv + 5.0) / 0.1)]++;
+//		prob[(int)((rv + 5) / 0.1)]++;
 //	}
-//	for (i = 0; i < 101; i++) {
+//	for (i = 0; i < 100; i++) {
 //		fprintf(fpt, "%2.2lf, %2.2lf, ", -5.0 + i * 0.1, -5.0 + (i + 1) * 0.1);
-//		fprintf(fpt, "%lf, %lf\n", (double)prob[i] / 1000000, (double)prob[i] / (1000000 * 0.1));
+//		fprintf(fpt, "%lf\n", ((double)prob[i] / 1000000)/0.1);
 //	}
 //
 //	fclose(fpt);

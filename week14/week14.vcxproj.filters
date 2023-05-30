@@ -21,5 +21,8 @@
     <ClCompile Include="program_practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="assignment(06_06).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

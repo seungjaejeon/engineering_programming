@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="assignment(06_06).c" />
     <ClCompile Include="program_practice.c" />
     <ClCompile Include="week14.c" />
   </ItemGroup>
